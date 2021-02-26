@@ -51,6 +51,8 @@ This project was developed with the following technologies:
 ## :label: Layout
 Use Figma to acces the [Web](https://www.figma.com/file/U3OvNRv4WcPZHpcbXmOYpN/Move.it-1.0?node-id=160%3A2761) layout
 
+You can try move.it [here](moveit-henna.vercel.app)
+
 ## :information_source: How To Use
 To clone and run this application, you'll need [Git](https://git-scm.com) installed on your computer.
 
